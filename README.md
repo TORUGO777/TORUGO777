@@ -52,7 +52,7 @@
 
 ### 📫 Contato | Contact
 
-- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/vitor-hugo-franco-904155291/)
 - 🐙 GitHub: [Meus projetos](https://github.com/)
 
 ---
